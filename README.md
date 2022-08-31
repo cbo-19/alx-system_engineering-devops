@@ -1,0 +1,1 @@
+This repository contains information on how to write shell scripts
