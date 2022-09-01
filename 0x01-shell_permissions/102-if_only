@@ -1,0 +1,2 @@
+#!/bin/bash
+su guillaume chown betty hello
