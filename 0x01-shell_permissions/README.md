@@ -1,0 +1,1 @@
+This is my readme to explain each script for today
