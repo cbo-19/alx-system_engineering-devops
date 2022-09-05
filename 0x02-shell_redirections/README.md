@@ -23,3 +23,4 @@
 16-whatsnesxt display lines containing 'root' and 3 lines after
 
 9-duplicate_the_last_line duplicates the last line of a file
+11-directories counts the number of directories and sub directories
