@@ -13,3 +13,5 @@
 7-file creates a file with special characters as its filename
 
 8-cwd_state redirect output to a file
+
+10-no_more_js deletes all regular files with .js extensions
