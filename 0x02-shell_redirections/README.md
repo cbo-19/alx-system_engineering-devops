@@ -24,3 +24,5 @@
 
 9-duplicate_the_last_line duplicates the last line of a file
 11-directories counts the number of directories and sub directories
+
+12-newest_files list newest files one per line and in a sorted order
