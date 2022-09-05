@@ -26,3 +26,5 @@
 11-directories counts the number of directories and sub directories
 
 12-newest_files list newest files one per line and in a sorted order
+
+13-unique prints words that appear only once
