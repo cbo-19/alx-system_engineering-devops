@@ -3,3 +3,5 @@
 2-hellofile displays the contents of /etc/passwd
 
 3-twofiles displaysthe contents of /etc/passwd and /etc/hosts
+
+4-last lines displays the last 10 lines of /etc/passwd
