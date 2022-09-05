@@ -19,3 +19,5 @@
 14-findthatword find a particulat word from a particular file
 
 15-countthatword display the number of lines a word appear in the a particular file
+
+16-whatsnesxt display lines containing 'root' and 3 lines after
