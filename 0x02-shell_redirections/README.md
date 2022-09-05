@@ -17,3 +17,5 @@
 10-no_more_js deletes all regular files with .js extensions
 
 14-findthatword find a particulat word from a particular file
+
+15-countthatword display the number of lines a word appear in the a particular file
