@@ -21,3 +21,5 @@
 15-countthatword display the number of lines a word appear in the a particular file
 
 16-whatsnesxt display lines containing 'root' and 3 lines after
+
+9-duplicate_the_last_line duplicates the last line of a file
