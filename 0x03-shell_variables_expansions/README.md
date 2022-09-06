@@ -13,3 +13,5 @@ This readme is for another sript writing
 8-true_knowledge makes addition
 
 6-create_local_variable creates a local variable
+
+7-create_global_variable
