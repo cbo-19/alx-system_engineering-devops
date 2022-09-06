@@ -38,3 +38,5 @@
 20-hiago removes specific charaters from inputs
 
 22-users_and_homes list users and their home directories, sorted by users
+
+19-AZ replace Ac with Ze
