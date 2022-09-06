@@ -34,3 +34,5 @@
 18-leeter only display lines beginning with a letter only
 
 21-reverse reverses inputs
+
+20-hiago removes specific charaters from inputs
