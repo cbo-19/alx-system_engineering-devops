@@ -17,3 +17,5 @@ This readme is for another sript writing
 7-create_global_variable
 
 10-love_exponent_breath produces an exponential function
+
+13-print_float prints numbers in decimal places
