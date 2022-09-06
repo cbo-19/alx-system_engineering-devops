@@ -27,3 +27,5 @@ This readme is for another sript writing
 11-binary_to_decimal converts binary to decimal
 
 3-paths counts the directories in PATH
+
+12-combinations makes combinations of letters
