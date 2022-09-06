@@ -19,3 +19,5 @@ This readme is for another sript writing
 10-love_exponent_breath produces an exponential function
 
 13-print_float prints numbers in decimal places
+
+2-path adds a directory to PATH
