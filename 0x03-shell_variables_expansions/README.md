@@ -25,3 +25,5 @@ This readme is for another sript writing
 100-decimal_to_hexadecimal changes from base 10 to 16
 
 11-binary_to_decimal converts binary to decimal
+
+3-paths counts the directories in PATH
