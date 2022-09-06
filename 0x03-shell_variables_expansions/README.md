@@ -23,3 +23,5 @@ This readme is for another sript writing
 2-path adds a directory to PATH
 
 100-decimal_to_hexadecimal changes from base 10 to 16
+
+11-binary_to_decimal converts binary to decimal
