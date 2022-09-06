@@ -21,3 +21,5 @@ This readme is for another sript writing
 13-print_float prints numbers in decimal places
 
 2-path adds a directory to PATH
+
+100-decimal_to_hexadecimal changes from base 10 to 16
