@@ -28,3 +28,5 @@
 12-newest_files list newest files one per line and in a sorted order
 
 13-unique prints words that appear only once
+
+17-hidethis word hides a word from a file or directory
