@@ -15,3 +15,5 @@ This readme is for another sript writing
 6-create_local_variable creates a local variable
 
 7-create_global_variable
+
+10-love_exponent_breath produces an exponential function
