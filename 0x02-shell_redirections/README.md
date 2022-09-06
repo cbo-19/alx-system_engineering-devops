@@ -32,3 +32,5 @@
 17-hidethis word hides a word from a file or directory
 
 18-leeter only display lines beginning with a letter only
+
+21-reverse reverses inputs
